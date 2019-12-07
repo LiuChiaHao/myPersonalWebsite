@@ -1,0 +1,26 @@
+body{
+  text-align:center
+}
+
+table{
+margin-left:auto;
+margin-right:auto;
+}
+
+a {
+    text-decoration:none;
+}
+
+
+.theDiv{
+  border:1px solid black;
+  width:100%;
+  height:80%;
+
+  overflow:auto;  /* 新增這行：當溢位時，自動顯示捲軸 */
+}
+
+.test{
+width:100%;
+height:100%x;
+}
